@@ -3,4 +3,6 @@ A simple Digital clock that displays the current date and time.
 
 ### Link: https://frankiefab100.github.io/Digital-Clock/
 
-![Digital_Clock](https://user-images.githubusercontent.com/46662771/103141135-1eeee480-46f0-11eb-919a-351bf29ada94.png)
+![Digital_Clock](![Screenshot_20201228-135723_1609160601825](https://user-images.githubusercontent.com/46662771/103216121-889c0800-4915-11eb-8b37-033f076bb511.jpg)
+
+)
