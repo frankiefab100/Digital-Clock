@@ -8,6 +8,13 @@ body {
   background-color: #f6f6f6;
   color: #222;
   font-family: "Montserrat", sans-serif;
+  display: flex;
+
+  flex-direction: column;
+
+  justify-content: center;
+
+  align-items: center;
 }
 
 .clock {
@@ -20,7 +27,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin: 250px auto 0;
+  margin:0 auto;
   width: 250px;
   text-align: center;
 }
